@@ -45,6 +45,8 @@
     [self addChild:sprite];
 }
 
+
+
 -(void)update:(CFTimeInterval)currentTime {
     /* Called before each frame is rendered */
 }
